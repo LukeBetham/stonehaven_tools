@@ -1,1 +1,2 @@
 theme: jekyll-theme-cayman
+baseurl: /{lib_name}/
