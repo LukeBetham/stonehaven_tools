@@ -1,7 +1,7 @@
 {
-  "stonehaven_tools": {
+  "stonehaventools": {
     "Overview": "/",
     "stonehaven_tools": "core.html",
-    "Stonehaven Tools": "index-checkpoint.html"
+    "stonehaventools": "index-checkpoint.html"
   }
 }

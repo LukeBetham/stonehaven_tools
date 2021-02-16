@@ -1,4 +1,4 @@
-# Stonehaven Tools
+# stonehaventools
 > This library contains a collection of tools built by stonehaven
 
 
@@ -6,7 +6,7 @@ This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install stonehaven_tools`
+`pip install stonehaventools`
 
 ## How to use
 

@@ -13,9 +13,9 @@ entries:
       title: stonehaven_tools
       url: core.html
     - output: web,pdf
-      title: Stonehaven Tools
+      title: stonehaventools
       url: index-checkpoint.html
     output: web
-    title: stonehaven_tools
+    title: stonehaventools
   output: web
   title: Sidebar
