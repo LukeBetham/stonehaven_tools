@@ -10,9 +10,6 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: stonehaven_tools
-      url: core.html
-    - output: web,pdf
       title: stonehaventools
       url: index-checkpoint.html
     output: web
